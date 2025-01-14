@@ -1,1 +1,1 @@
-# resistencie
+# resistance
